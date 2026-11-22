@@ -10,7 +10,7 @@ Next event and RSVP: [luma.com/aaif-bengaluru](https://luma.com/aaif-bengaluru)
 |---|---|---|
 | 21 Nov 2026 | [Agentic Saturday \| AAIF x Infosys \| 3rd Edition](https://luma.com/8ie7u3c8) | [2026-11-21](./2026-11-21) |
 | 17 Oct 2026 | [Agentic Saturday \| AAIF x Paytm \| 2nd Edition](https://luma.com/adhicxnt) | Not shared |
-| 26 Sep 2026 | Agents in Open Source: Bengaluru's Agentic AI Community, at Amadeus | [2026-09-26](./2026-09-26) |
+| 26 Sep 2026 | [Agents in Open Source: Bengaluru's Agentic AI Community](https://luma.com/igokwrsx), at Amadeus | [2026-09-26](./2026-09-26) |
 
 Each folder has only what the speakers chose to share.
 
